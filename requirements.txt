@@ -1,0 +1,15 @@
+requests
+pandas
+numpy
+feedparser
+pyupbit
+openpyxl
+redis
+paramiko
+beautifulsoup4
+websockets>=11.0
+fastdtw
+scipy
+google-genai
+pydantic
+scikit-learn
